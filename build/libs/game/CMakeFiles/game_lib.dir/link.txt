@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgame_lib.a CMakeFiles/game_lib.dir/src/Ball.cpp.o CMakeFiles/game_lib.dir/src/Game.cpp.o CMakeFiles/game_lib.dir/src/Player.cpp.o CMakeFiles/game_lib.dir/src/miniaudio.cpp.o
+/usr/bin/ranlib libgame_lib.a

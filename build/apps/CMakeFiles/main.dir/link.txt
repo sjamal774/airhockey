@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/main.dir/Main.cpp.o -o main  ../libs/game/libgame_lib.a ../libs/gfx/libgfx_lib.a /opt/homebrew/lib/libfreetype.dylib ../libs/extern/glfw/src/libglfw3.a -framework Cocoa -framework IOKit -framework CoreFoundation ../libs/extern/glad/libglad.a

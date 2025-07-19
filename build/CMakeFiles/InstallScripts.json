@@ -1,0 +1,17 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/sarahjamal/Desktop/airhockey/build/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/extern/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/extern/glfw/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/extern/glfw/src/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/extern/glfw/docs/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/extern/glad/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/extern/glm/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/game/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/libs/gfx/cmake_install.cmake",
+		"/Users/sarahjamal/Desktop/airhockey/build/apps/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

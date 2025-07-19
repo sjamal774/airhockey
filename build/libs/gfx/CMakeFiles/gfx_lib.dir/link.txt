@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgfx_lib.a CMakeFiles/gfx_lib.dir/src/Draw.cpp.o CMakeFiles/gfx_lib.dir/src/ResourceManager.cpp.o CMakeFiles/gfx_lib.dir/src/Shader.cpp.o CMakeFiles/gfx_lib.dir/src/SpriteRender.cpp.o CMakeFiles/gfx_lib.dir/src/Texture.cpp.o CMakeFiles/gfx_lib.dir/src/Window.cpp.o CMakeFiles/gfx_lib.dir/src/stb_image.cpp.o
+/usr/bin/ranlib libgfx_lib.a
